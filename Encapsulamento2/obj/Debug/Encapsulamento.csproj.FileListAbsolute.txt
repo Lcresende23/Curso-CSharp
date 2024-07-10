@@ -1,0 +1,6 @@
+C:\Users\Lucas\source\repos\CursoCSharp\Encapsulamento2\bin\Debug\Encapsulamento2.dll
+C:\Users\Lucas\source\repos\CursoCSharp\Encapsulamento2\bin\Debug\Encapsulamento2.pdb
+C:\Users\Lucas\source\repos\CursoCSharp\Encapsulamento2\obj\Debug\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\CursoCSharp\Encapsulamento2\obj\Debug\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\CursoCSharp\Encapsulamento2\obj\Debug\Encapsulamento2.dll
+C:\Users\Lucas\source\repos\CursoCSharp\Encapsulamento2\obj\Debug\Encapsulamento2.pdb
